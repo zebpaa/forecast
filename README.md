@@ -1,20 +1,5 @@
-# forecast
+# Forecast
+Приложение на Vue.js, которое показывает погоду. Вёрстка реализована с препроцессором Sass.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# forecast
+# Внешний вид приложения
+<img width="1153" alt="layout" src="https://github.com/zebpaa/forecast/assets/99737311/ce45a317-0170-437e-b905-7f8074542ff0">
