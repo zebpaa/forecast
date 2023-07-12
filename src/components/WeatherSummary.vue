@@ -4,8 +4,8 @@ const props = defineProps({
   weatherInfo: {
     type: [Object, null],
     required: true,
-  },
-});
+  }
+})
 
 const today = new Date().toLocaleString('en-EN', { weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})
 </script>
